@@ -1,9 +1,0 @@
-syntax = 'proto3';
-
-package com.squareup.cash.gap.datasource;
-
-enum DataSource {
-  DataCentre = 0;
-  Cloud = 1;
-}
-
